@@ -1,2 +1,4 @@
 Creating two new branch is quick and simple.
 dev
+stash
+
